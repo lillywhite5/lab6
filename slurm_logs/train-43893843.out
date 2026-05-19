@@ -1,0 +1,10 @@
+epoch=1 train_loss=1.075253 train_accuracy=0.580499 val_loss=0.913796 val_accuracy=0.633919
+epoch=2 train_loss=0.915866 train_accuracy=0.633434 val_loss=0.880914 val_accuracy=0.633370
+TRAINING_SUCCESS=true
+NUM_CLASSES=5
+NUM_SAMPLES=9114
+METRICS_FILE=outputs/train_metrics.txt
+MODEL_FILE=outputs/model.pt
+FINAL_TRAIN_LOSS=0.915866
+FINAL_VAL_LOSS=0.880914
+RESULTS_FILE=/gpfs/projects/dsci410_510/Lab6/results/lwhite5.txt
